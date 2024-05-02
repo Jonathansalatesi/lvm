@@ -1,0 +1,9 @@
+D:/Users/Documents/clion/lvm.v0.0.3.20240501/cmake-build-debug/CMakeFiles/lvm.dir
+D:/Users/Documents/clion/lvm.v0.0.3.20240501/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Users/Documents/clion/lvm.v0.0.3.20240501/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/Users/Documents/clion/lvm.v0.0.3.20240501/cmake-build-debug/api/CMakeFiles/API.dir
+D:/Users/Documents/clion/lvm.v0.0.3.20240501/cmake-build-debug/api/CMakeFiles/edit_cache.dir
+D:/Users/Documents/clion/lvm.v0.0.3.20240501/cmake-build-debug/api/CMakeFiles/rebuild_cache.dir
+D:/Users/Documents/clion/lvm.v0.0.3.20240501/cmake-build-debug/vm/CMakeFiles/VM.dir
+D:/Users/Documents/clion/lvm.v0.0.3.20240501/cmake-build-debug/vm/CMakeFiles/edit_cache.dir
+D:/Users/Documents/clion/lvm.v0.0.3.20240501/cmake-build-debug/vm/CMakeFiles/rebuild_cache.dir

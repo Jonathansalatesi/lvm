@@ -1,0 +1,21 @@
+# ninja log v5
+97	220	7363294626724321	vm/CMakeFiles/VM.dir/inst_for.cpp.obj	b554974bc9bbd247
+80	612	7363294630585199	api/CMakeFiles/API.dir/lua_vm.cpp.obj	275063a85ec520ef
+59	719	7363294631705447	api/CMakeFiles/API.dir/api.cpp.obj	88f907a0f5d053b7
+89	763	7363294632135542	vm/CMakeFiles/VM.dir/inst_load.cpp.obj	c45aeee628fe8197
+7	792	7363294632426763	CMakeFiles/lvm.dir/delete.cpp.obj	b5ea4fbdf540f53
+66	805	7363294632565638	api/CMakeFiles/API.dir/api_compare.cpp.obj	c14cff7761687530
+72	817	7363294632695661	api/CMakeFiles/API.dir/api_arith.cpp.obj	ca05a0bc6a1b3e3e
+20	889	7363294633405880	CMakeFiles/lvm.dir/create.cpp.obj	58e6d1c31f7cffe5
+221	972	7363294634256003	vm/CMakeFiles/VM.dir/inst_misc.cpp.obj	369b678bb9ad017
+41	985	7363294634376019	CMakeFiles/lvm.dir/vm/vm.cpp.obj	20a46883205889b1
+50	988	7363294634406047	CMakeFiles/lvm.dir/lua_math.cpp.obj	5485bb6f03043917
+818	1006	7363294634596093	api/libAPI.a	9368b1ef8d4dab76
+34	1149	7363294636016448	CMakeFiles/lvm.dir/lua_stack.cpp.obj	debb9b335f27394a
+613	1215	7363294636693854	vm/CMakeFiles/VM.dir/inst_operators.cpp.obj	8b811f4d66bb2c93
+719	1310	7363294637644096	vm/CMakeFiles/VM.dir/vm.cpp.obj	fa4d24239e264339
+14	1398	7363294638524279	CMakeFiles/lvm.dir/main.cpp.obj	8618316e72a02dcb
+1310	1453	7363294639054368	vm/libVM.a	5e87330f47447901
+27	1595	7363294640484690	CMakeFiles/lvm.dir/lua_state.cpp.obj	cdf56037ac48e094
+0	2202	7363294646536175	CMakeFiles/lvm.dir/binchunk.cpp.obj	eb235c14829ce2ee
+2205	2790	7363294652387347	lvm.exe	de3db875dc2d4386

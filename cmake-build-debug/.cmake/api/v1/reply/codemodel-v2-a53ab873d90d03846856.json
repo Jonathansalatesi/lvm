@@ -1,0 +1,113 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "api",
+					"jsonFile" : "directory-api-Debug-5ab110d9fc402529b4bb.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "api",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "vm",
+					"jsonFile" : "directory-vm-Debug-f424b0a920b545d2f151.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "vm",
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"name" : "lvm",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "API::@10fae538ba4e8521554e",
+					"jsonFile" : "target-API-Debug-904bd9b98af32213dc08.json",
+					"name" : "API",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "VM::@72c1f6c64e67d5a8fac9",
+					"jsonFile" : "target-VM-Debug-554c1522024351364825.json",
+					"name" : "VM",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lvm::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lvm-Debug-e8e8d714f59342aeee7f.json",
+					"name" : "lvm",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Users/Documents/clion/lvm.v0.0.3.20240501/cmake-build-debug",
+		"source" : "D:/Users/Documents/clion/lvm.v0.0.3.20240501"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
